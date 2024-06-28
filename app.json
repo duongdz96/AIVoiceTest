@@ -1,0 +1,11 @@
+{
+  "name": "VoiceAi",
+  "displayName": "VoiceAi",
+  "react-native-google-mobile-ads": {
+    "android_app_id": "ca-app-pub-5912042045081275~2976522593",
+    "ios_app_id": "ca-app-pub-5912042045081275~2729110586"
+  },
+  "ios": {
+    "useFrameworks": "static"
+  }
+}

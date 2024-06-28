@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1084056059345",
+    "project_id": "voiceai-dev",
+    "storage_bucket": "voiceai-dev.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1084056059345:android:c4a21ee49bb3014508b4f0",
+        "android_client_info": {
+          "package_name": "com.triple.voiceai.dev"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDcvQnOMUg6ENoV-BmnHilI1zGwSMHBp1U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
